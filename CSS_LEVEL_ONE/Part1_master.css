@@ -1,0 +1,32 @@
+/* commments */
+/* some text */
+
+/* selected tag {
+  property: value
+} */
+
+/* g1 = #a9cef4
+g2 = #36494e
+g3 = #000000
+g4 = #7ea0b7
+g5 = #597081 */
+
+
+h1{
+  color: #000000
+}
+
+h2{
+  color: #a9cef4
+}
+
+h4{
+  color: #36494e
+}
+li{
+  color: #7ea0b7
+}
+
+p{
+  color: #597081
+}
